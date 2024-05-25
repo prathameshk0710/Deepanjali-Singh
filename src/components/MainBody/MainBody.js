@@ -1,7 +1,7 @@
 import React from 'react'
 import './MainBody.css'
 import Friend from '../Friend/Friend'
-import parushPic from './../../images/DeepasPic.jpg'
+import parushPic from './../../images/parush.jpg'
 function MainBody() {
   return (
     <>
