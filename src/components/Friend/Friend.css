@@ -1,0 +1,8 @@
+.singleFriend{
+    display: flex;
+    flex-direction: row;
+}
+.friendPic{
+    height: 300px;
+    width: 250px;
+}

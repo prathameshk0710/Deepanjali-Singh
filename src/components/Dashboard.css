@@ -1,0 +1,39 @@
+.mainBoard{
+    /* background-color: aquamarine; */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images//DeepaBackgroundPhoto.jpeg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    width: 100%; 
+    height: 100vh; 
+}
+
+.name{
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+}
+.description{
+    font-size: 30px;
+    text-align: justify;
+    padding: 0px 30px;
+    color: rgb(255, 208, 0);
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.desc-image{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+.otherTitle{
+    text-align: center;
+    font-size: 40px;
+}
+.DeepaPic{
+    height: 450px;
+    width: 380px;
+    border: black solid;
+    border-radius: 10px;
+    margin-right: 40px;
+}
