@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Deepanjali-Singh/static/css/main.618adb6d.css",
+    "main.js": "/Deepanjali-Singh/static/js/main.11c8b587.js",
+    "static/js/453.a4d5314f.chunk.js": "/Deepanjali-Singh/static/js/453.a4d5314f.chunk.js",
+    "static/media/DeepasPic.jpg": "/Deepanjali-Singh/static/media/DeepasPic.56b3fc1c679b826e9a73.jpg",
+    "static/media/DeepaBackgroundPhoto.jpeg": "/Deepanjali-Singh/static/media/DeepaBackgroundPhoto.4a26fc2d6d94c36da3a5.jpeg",
+    "static/media/parush.jpg": "/Deepanjali-Singh/static/media/parush.d95cd390bbabd4b3a5dc.jpg",
+    "index.html": "/Deepanjali-Singh/index.html",
+    "main.618adb6d.css.map": "/Deepanjali-Singh/static/css/main.618adb6d.css.map",
+    "main.11c8b587.js.map": "/Deepanjali-Singh/static/js/main.11c8b587.js.map",
+    "453.a4d5314f.chunk.js.map": "/Deepanjali-Singh/static/js/453.a4d5314f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618adb6d.css",
+    "static/js/main.11c8b587.js"
+  ]
+}
